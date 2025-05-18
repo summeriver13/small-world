@@ -4,8 +4,6 @@ Small World Calculator.
 
 ## Small World
 
-![](https://cdn.cardsrealm.com/images/cartas/bode-burst-of-destiny/en/crop-med/small-world-en069.jpeg）
-
 > Reveal 1 monster in your hand, choose 1 monster from your Deck that has exactly 1 of the same Type, Attribute, Level, ATK or DEF, and banish the revealed monster from your hand face-down. Then add, from the Deck to your hand, 1 monster that has exactly 1 of the same Type, Attribute, Level, ATK or DEF as the monster chosen from your Deck, and banish the card chosen from the Deck face-down. You can only activate 1 "Small World" per turn.
 
 ## data struct
